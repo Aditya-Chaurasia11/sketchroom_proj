@@ -1,7 +1,7 @@
 import "./App.css";
 import { Routes, Route, Navigate } from "react-router-dom";
-import HomeScreen from "./views/HomeScreen";
-import PlayScreen from "./views/PlayScreen";
+import HomeScreen from "./Pages/HomeScreen";
+import PlayScreen from "./Pages/PlayScreen";
 
 
 function App() {
